@@ -1,0 +1,3 @@
+[submodule "cvat"]
+	path = cvat
+	url = /home/sondz/vehicle_tracking/annotate/cvat/
